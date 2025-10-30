@@ -7,4 +7,3 @@
 .𖥔 ݁ ˖ ${\color{#D3FDFF}\text{BEST VIEWED IN PC MODE ╱ DESKTOP SITE OKAY this is still in wip}}$
 
 ![Alt text](https://ik.imagekit.io/22tifjcqh/Untitled2_20251030201747.png)
-
