@@ -1,7 +1,7 @@
 ![Alt text](https://ik.imagekit.io/22tifjcqh/Untitled2_20251031121103.png)
 
-⋮ ⌗ ${\color{#23F0F0}\text{I}} {\color{#E0FDFB}\text{rarely}} {\color{#23F0F0}\text{even}} {\color{#E0FDFB}\text{use}} {\color{#23F0F0}\text{this}} {\color{#E0FDFB}\text{account}} {\color{#23F0F0}\text{now}} {\color{#E0FDFB}\text{╱}} {\color{#23F0F0}\text{lowkey}} {\color{#E0FDFB}\text{forgot}} {\color{#23F0F0}\text{this}} {\color{#E0FDFB}\text{even}} {\color{#23F0F0}\text{existed}} {\color{#E0FDFB}\text{whoooosspp}}$
+⋮ ⌗ ${\color{#B4FCFC}\text{I}} {\color{#1DF5F5}\text{rarely}} {\color{#B4FCFC}\text{even}} {\color{#1DF5F5}\text{use}} {\color{#B4FCFC}\text{this}} {\color{#1DF5F5}\text{account}} {\color{#B4FCFC}\text{now}} {\color{#1DF5F5}\text{╱}} {\color{#B4FCFC}\text{lowkey}} {\color{#1DF5F5}\text{forgot}} {\color{#B4FCFC}\text{this}} {\color{#1DF5F5}\text{even}} {\color{#B4FCFC}\text{existed}} {\color{#1DF5F5}\text{whoooosspp}}$
 
-.𖥔 ݁ ˖ ${\color{#23F0F0}\text{BEST VIEWED IN PC MODE ╱}} {\color{#E0FDFB}\text{DESKTOP SITE this is still in wip}}$
+.𖥔 ݁ ˖ ${\color{#1DF5F5}\text{BEST VIEWED IN PC MODE ╱}} {\color{#B4FCFC}\text{DESKTOP SITE this is still in wip}}$
 
 ![Alt text](https://ik.imagekit.io/22tifjcqh/Untitled2_20251031120956.png)
