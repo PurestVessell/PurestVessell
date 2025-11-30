@@ -1,3 +1,30 @@
+commands to help you if you want to make a cool readme ok
+
+search image.kit and upload your images/gifs there then copy link ok)
+after copy and paste remove the spaces ok DO NOT REMOVE THE "!'S".
+
+1. For images: ! [random text ok] (image link ok)
+2. For gifts: ! [random text ok] (image link ok) basically the same as images ok
+3. For coloring texts: $ {\color{red or #FFC000}\text{your text ok}}$
+4. For links: [insert text ok] (website link ok)
+5. For profile views:
+
+ex. ![prigirlms](https://komarev.com/ghpvc/?username=Doxdxo&color=a30000&label=𝗚rimChildren)
+
+! [random text ok] (https://komarev.com/ghpvc/?username=yourgithubuserok)
+
+to add designs use &
+
+like this
+
+color: ! [random text ok] (https://komarev.com/ghpvc/?username=yourgithubuserok&color=#FFC00 or red)
+
+adding text: ! [random text ok] (https://komarev.com/ghpvc/?username=yourgithubuserok&label=inserttext)
+
+both: ! [random text ok] (https://komarev.com//ghpvc/?username=yourgithubuserok&label=inserttext&color=red)
+
+basically just add & ok
+
 ![Alt text](https://ik.imagekit.io/22tifjcqh/Untitled2_20251031121103.png)
 
 ⋮ ⌗ ${\color{#B4FCFC}\text{I}} {\color{#1DF5F5}\text{rarely}} {\color{#B4FCFC}\text{even}} {\color{#1DF5F5}\text{use}} {\color{#B4FCFC}\text{this}} {\color{#1DF5F5}\text{account}} {\color{#B4FCFC}\text{now}} {\color{#1DF5F5}\text{╱}} {\color{#B4FCFC}\text{lowkey}} {\color{#1DF5F5}\text{forgot}} {\color{#B4FCFC}\text{this}} {\color{#1DF5F5}\text{even}} {\color{#B4FCFC}\text{existed}} {\color{#1DF5F5}\text{whoooosspp}}$
